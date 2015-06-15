@@ -1,1 +1,1 @@
-# simplepickem
+# Simple Pick'em
